@@ -2,7 +2,7 @@ Pod::Spec.new do |spec|
   spec.name = "BeaconAdSDK"
   spec.version = "1.0.0"
   spec.summary = "BeaconAd SDK"
-  spec.homepage = "https://github.com/NikKonst/BeaconAd"
+  spec.homepage = "https://github.com/Jusill/AdBeacon"
   spec.license = { type: 'MIT', file: 'LICENSE' }
   spec.authors = { "Boris Konstantinovskiy" => 'Jusill@gmail.com' }
 
